@@ -1,0 +1,49 @@
+body {
+    margin: auto;
+    font-family: 'Nunito', sans-serif;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    background: #f3f0f0;
+    margin: 20vh auto;
+    width: fit-content;
+    padding: 1rem;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    
+}
+.container:hover {
+    box-shadow: 5px 10px 5px 2px #e8e2e2;
+}
+.image{
+    width: 150px;
+    height: 150px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+
+h2{
+    font-size: 15px;
+    color: rgb(167, 41, 106);
+    font-weight: bold;
+}
+.github {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(167, 41, 106);
+}
+a:hover{
+    background: #e8e2e2;
+    padding: 0.5rem;
+    border-radius: 5px;
+}
+
