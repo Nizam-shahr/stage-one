@@ -28,7 +28,7 @@ body {
 
 h2{
     font-size: 15px;
-    color: rgb(167, 41, 106);
+    color: rgb (167, 41, 106);
     font-weight: bold;
 }
 .github {
@@ -39,7 +39,8 @@ h2{
 
 a {
     text-decoration: none;
-    color: rgb(167, 41, 106);
+    color: rgb (167, 41, 106);
+    font-weight: bold;
 }
 a:hover{
     background: #e8e2e2;
